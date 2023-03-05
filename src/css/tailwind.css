@@ -1,0 +1,12 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .setting {
+        @apply flex flex-col;
+    }
+    .title {
+        @apply text-xs;
+    }
+}

@@ -1,3 +1,14 @@
+# MacOS
+.DS_Store
+
+# IDE
+.idea
+
+# Build
+dist.crx
+dist.pem
+mix-manifest.json
+
 # Logs
 logs
 *.log
